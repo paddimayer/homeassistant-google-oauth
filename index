@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home Assistant Google Calendar Integration</title>
+</head>
+<body>
+  <h1>Home Assistant Google Calendar Integration</h1>
+
+  <p>
+    This is a private, non-commercial Home Assistant integration
+    used exclusively to access my personal Google Calendar.
+  </p>
+
+  <p>
+    The application is not offered to the public and is used
+    only by the owner of this Google account.
+  </p>
+
+  <p>
+    <a href="privacy.html">Privacy Policy</a>
+  </p>
+</body>
+</html>
